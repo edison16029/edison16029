@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Edison M 👋
 
 <!--
 **edison16029/edison16029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
