@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-<p align="center"><a href="https://edison16029.github.io/portfolio/">:arrow_backward: My Website :arrow_forward:</a></p>
+<p align="center"><a href="https://edison16029.github.io/portfolio/" target='_blank' rel="noreferrer" >:arrow_backward: My Website :arrow_forward:</a></p>
 
 <h3>Things I code with</h3>
 <p>
