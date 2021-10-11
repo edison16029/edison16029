@@ -35,4 +35,7 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edison16029)](https://git.io/streak-stats)
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=edison16029.edison16029)
