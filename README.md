@@ -34,8 +34,8 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edison16029)](https://git.io/streak-stats)
-
+<h1 align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edison16029)](https://git.io/streak-stats)
+</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=edison16029.edison16029)
