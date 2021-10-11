@@ -20,9 +20,10 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-<p align="center"><a href="https://edison16029.github.io/portfolio/" target='_blank' rel="noreferrer" >:arrow_backward: My Website :arrow_forward:</a></p>
+<h3>:arrow_forward: My Portfolio Website</h3>
+<p><a href="https://edison16029.github.io/portfolio/" target='_blank' rel="noreferrer" >Click here to visit my Website</a></p>
 
-<h3>Things I code with</h3>
+<h3>:arrow_forward: Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -34,8 +35,14 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h1 align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edison16029)](https://git.io/streak-stats)
-</h1>
 
+<h3>:arrow_forward: GitHub Stats</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+<hr>
+<a href="https://www.linkedin.com/in/edison-moni-9a20a5188/">
+  <img align="left" alt="Edison's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+  
 ![](https://visitor-badge.glitch.me/badge?page_id=edison16029.edison16029)
