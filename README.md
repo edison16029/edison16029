@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <hr>
+
+<a href="https://stackoverflow.com/users/13352948/edison16029" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/edison-moni-9a20a5188/">
-  <img align="left" alt="Edison's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Edison's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-  
 ![](https://visitor-badge.glitch.me/badge?page_id=edison16029.edison16029)
