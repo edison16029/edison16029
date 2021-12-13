@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm Edison M <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br><br>
+  Hie, I'm Edison M <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br><br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Welcome%22);System.out.println(%22Welcome%22);print(%22Welcome%22);cout%20%3C%3C%20%22Welcome%22&center=true&size=27&width=550">
   </a>
