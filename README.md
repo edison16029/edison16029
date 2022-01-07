@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Welcome%22);System.out.println(%22Welcome%22);print(%22Welcome%22);cout%20%3C%3C%20%22Welcome%22&center=true&size=27&width=550">
   </a>
 </h1>
-<h3>:arrow_forward: My Portfolio Website</h3>
+<h3>:arrow_forward: My Portfolio Website!</h3>
 <p><a href="https://edison16029.github.io/portfolio/" target='_blank' rel="noreferrer" >Click here to visit my Website</a></p>
 
 <h3>:arrow_forward: Things I code with</h3>
